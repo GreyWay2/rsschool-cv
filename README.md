@@ -1,1 +1,1 @@
-https://GreyWay2.github.io/rsschool-cv-html/
+https://GreyWay2.github.io/rsschool-cv/
