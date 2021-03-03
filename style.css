@@ -1,0 +1,28 @@
+.main {
+    overflow-x: hidden;
+    color: #444;
+    background-color: #eee;
+    font-family: "Segoe UI";
+    margin: 0;
+  }
+  .main-kianu{
+    width: 150px;
+    height: 150px;
+  }
+  .main-list {
+      width: 100%;
+  }
+  .main-list ul {
+      text-align: center;
+      list-style: none;
+  }
+  .footer {
+    height: 50px;
+    padding-top: 10px;
+    background-color: #444;
+    margin: 0;
+  }
+  .footer-rs{
+    width: 30px;
+    height: 30px;
+  }
