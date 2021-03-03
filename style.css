@@ -1,13 +1,12 @@
 .main {
-    overflow-x: hidden;
     color: #444;
     background-color: #eee;
     font-family: "Segoe UI";
     margin: 0;
   }
   .main-kianu{
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
   }
   .main-list {
       width: 100%;
@@ -23,6 +22,6 @@
     margin: 0;
   }
   .footer-rs{
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
   }
