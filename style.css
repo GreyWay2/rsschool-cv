@@ -5,8 +5,8 @@
     margin: 0;
   }
   .main-kianu{
-    width: 50px;
-    height: 50px;
+    width: 10%;
+    height: 10%;
   }
   .main-list {
       width: 100%;
@@ -16,12 +16,12 @@
       list-style: none;
   }
   .footer {
-    height: 50px;
-    padding-top: 10px;
+    height: 100px;
+    padding-top: 20px;
     background-color: #444;
     margin: 0;
   }
   .footer-rs{
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
   }
